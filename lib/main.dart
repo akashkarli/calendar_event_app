@@ -17,6 +17,7 @@ Future<void> main() async {
   runApp(MyApp());
 }
 
+
 class MyApp extends StatelessWidget {
   User? user = FirebaseAuth.instance.currentUser;
 
