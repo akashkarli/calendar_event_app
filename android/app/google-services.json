@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555835726206",
+    "project_id": "calendar-event-task",
+    "storage_bucket": "calendar-event-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555835726206:android:66f07f836c74b02b1b3b2f",
+        "android_client_info": {
+          "package_name": "com.example.calendar_event_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555835726206-oenipjfm79m7cfe1h4pqn4u1fds0fqg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calendar_event_app",
+            "certificate_hash": "6812c964c624c8ab9c9eed41d7285bfd6ff08fff"
+          }
+        },
+        {
+          "client_id": "555835726206-74n161j32opgftgnt8ajnuqj4h9lt4l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjaOQFj0v1KVqBPzv1Mr3iVzx5wBSNtgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555835726206-74n161j32opgftgnt8ajnuqj4h9lt4l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
